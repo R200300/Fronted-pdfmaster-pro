@@ -1,0 +1,7 @@
+{
+  "name": "PDFMaster Pro",
+  "description": "A modern, all-in-one PDF editing and conversion suite designed for students, freelancers, and businesses. Features include background removal, color modification, page management, and AI-powered document summaries.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
